@@ -18,6 +18,12 @@ The Node sleeps and send data using LoRaWAN each ~10 minutes.
 
 [The Arduino code is available here.](arduino)
 
+## Voltage / Time
+
+<a href="data">
+<img src="img/data-vcc.png" alt="data-vcc">
+</a>
+
 ## Data
 
 The data uses a JSON format and has 3 files with the data group by days, hours, and minutes.
@@ -42,12 +48,6 @@ The data uses a JSON format and has 3 files with the data group by days, hours, 
   ...
 ]
 ```
-
-<a href="data">
-<img src="img/data-vcc.png" alt="data-vcc">
-</a>
-
-
 
 * [data-days.json](data/data-days.json)
 * [data-hours.json](data/data-hours.json)
