@@ -14,6 +14,10 @@ The Node sleeps and send data using LoRaWAN each ~10 minutes.
 <img src="img/LoRaNow-node-2.jpg" alt="LoRaNow-node-2" width="240px">
 </a>
 
+## Arduino Code
+
+[The Arduino code is available here.](arduino)
+
 ## Data
 
 The data uses a JSON format and has 3 files with the data group by days, hours, and minutes.
