@@ -43,6 +43,12 @@ The data uses a JSON format and has 3 files with the data group by days, hours, 
 ]
 ```
 
+<a href="data">
+<img src="img/data-vcc.png" alt="data-vcc">
+</a>
+
+
+
 * [data-days.json](data/data-days.json)
 * [data-hours.json](data/data-hours.json)
 * [data-minutes.json](data/data-minutes.json)
