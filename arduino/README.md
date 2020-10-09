@@ -2,11 +2,15 @@
 
 This code was design to work with the [LoRaNow Board V0](https://github.com/ricaun/LoRaNow-board) and [The Things Network](https://www.thethingsnetwork.org/).
 
-# Library
+## Library
 
 * [LMIC]
 * [ArduinoUniqueID]
 * [Adafruit_BMP085]
+
+## Low Memory Available
+
+This sheet is really big and on the current version of the [LMIC] is not possible to compile the code on the atmega328p.
 
 ## License
 

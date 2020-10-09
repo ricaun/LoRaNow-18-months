@@ -6,7 +6,15 @@ The Node starts in April of 2019 and dies in September of 2020, 18 months in tot
 
 The Node sleeps and send data using LoRaWAN each ~10 minutes.
 
-# Data
+## LoRaNow Board - V0
+
+<a href="https://github.com/ricaun/LoRaNow-board">
+<img src="img/LoRaNow-node-0.jpg" alt="LoRaNow-node-0" width="240px">
+<img src="img/LoRaNow-node-1.jpg" alt="LoRaNow-node-1" width="240px">
+<img src="img/LoRaNow-node-2.jpg" alt="LoRaNow-node-2" width="240px">
+</a>
+
+## Data
 
 The data uses a JSON format and has 3 files with the data group by days, hours, and minutes.
 
