@@ -24,6 +24,18 @@ The Node sleeps and send data using LoRaWAN each ~10 minutes.
 <img src="img/data-vcc.png" alt="data-vcc">
 </a>
 
+## Temperature / Time
+
+<a href="data">
+<img src="img/data-temp.png" alt="data-temp">
+</a>
+
+## Pressure / Time
+
+<a href="data">
+<img src="img/data-bar.png" alt="data-bar">
+</a>
+
 ## Data
 
 The data uses a JSON format and has 3 files with the data group by days, hours, and minutes.
